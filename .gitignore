@@ -1,0 +1,5 @@
+/*/__debug*
+*config.yml
+/.vscode
+/.idea
+/internal/repository/olt.go
