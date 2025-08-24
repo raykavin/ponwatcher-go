@@ -1,6 +1,6 @@
 # PON Watcher
 
-PON Watcher is an intelligent optical network monitoring application built in Go that provides real-time monitoring of Optical Network Units (ONUs) in PON (Passive Optical Network) infrastructures.
+PON Watcher is an intelligent optical network monitoring application built in Go that provides real-time monitoring and management of Optical Network Units (ONUs) in PON (Passive Optical Network) infrastructures.
 
 ## Features
 
@@ -282,26 +282,34 @@ Built-in monitoring features:
 - **Request Logging**: Detailed HTTP request/response logging
 - **Error Tracking**: Comprehensive error logging and reporting
 
-## License
+## Frontend
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+The application frontend is available at: [https://github.com/raykavin/ponwatcher-react](https://github.com/raykavin/ponwatcher-react)
 
 ## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
+Contributions to PON Watcher are welcome! Here are some ways you can help improve the project:
 
-## Support
+- **Report bugs and suggest features** by opening issues on GitHub
+- **Submit pull requests** with bug fixes or new features
+- **Improve documentation** to help other users and developers
+- **Share your custom strategies** with the community
 
-For support and questions:
+## License
 
-- Create an issue in the repository
-- Check the logs for detailed error information
-- Ensure network connectivity to UNM servers
-- Verify configuration parameters
+PON Watcher is distributed under the **GNU General Public License v3.0**.  
+For complete license terms and conditions, see the [LICENSE](LICENSE.md) file in the repository.
+
+Copyright © [Raykavin Meireles](https://github.com/raykavin)
+
+## Contact
+
+For support, collaboration, or questions about PON Watcher:
+
+**Email**: [raykavin.meireles@gmail.com](mailto:raykavin.meireles@gmail.com)  
+**GitHub**: [@raykavin](https://github.com/raykavin)  
+**LinkedIn**: [@raykavin.dev](https://www.linkedin.com/in/raykavin-dev)  
+**Instagram**: [@raykavin.dev](https://www.instagram.com/raykavin.dev)
 
 ## Changelog
 
